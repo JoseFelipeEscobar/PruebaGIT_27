@@ -6,3 +6,5 @@ este proyecto esta programado en html y es un ejemplo
 git push 
 git pull
 ```
+
+emali **jfejose10@gmail.com**
